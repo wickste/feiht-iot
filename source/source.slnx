@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="device/device.csproj" />
+  <Project Path="service/service.csproj" />
+</Solution>
